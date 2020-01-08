@@ -21,11 +21,11 @@ The following requirements must be met in order to complete the assignment succe
 | Criteria | Excellent  | Satisfactory | Marginal | Unsatisfactory |
 | ---      | ---        | ---          | ---      | ---            |
 | Layout   | The layout demonstrates superior layout that transitions seamlessly between screen sizes and optimizes on all browsers. | The layout is responsive and optimized for multiple browsers and screen sizes. | The layout is partially responsive, but was not optimized to work well on multiple browsers and screen sizes. | No meaningful attempt was made to create a responsive layout. |
-|    | **20 Points** | **15 Points** | **12 Points** | **9 Points** |
+|    | **15 Points** | **12 Points** | **9 Points** | **6 Points** |
 | Design | The design is outstanding and creative with excellent use of colors, fonts, and whitespace. | The design is appealing with good use of colors, fonts, and whitespace. | The design is lacking in choice of colors, fonts, and whitespace making the site difficult to use. | The design is unappealing with poor use of colors, fonts, and whitespace. |
 |    | **15 Points** | **12 Points** | **9 Points** | **6 Points** |
 | Specificity | The selectors used had minimal specificity | The selectors used had reasonable specificity  | The selectors used had excessive specificity | The selectors used were inadequate to override the base styles. |
-|    | **10 Points** | **8 Points** | **6 Points** | **4 Points** |
+|    | **15 Points** | **12 Points** | **9 Points** | **6 Points** |
 | CSS | | The CSS is well formatted and valid. | The CSS is valid but poorly formatted | The CSS is invalid |
 |    |  | **5 Points** | **3 Points** | **2 Points** |
 **Maximum Points: 50**
